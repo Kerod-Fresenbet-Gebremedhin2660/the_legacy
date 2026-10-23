@@ -1,0 +1,27 @@
+The Legacy — reviewed abridged edition
+Version 1.1.0 | 23 October 2026
+Original story by storytellerSpW. Personal abridged adaptation.
+
+Changes from version 1.0.0
+
+Focused tightening of elementary over-explanation, shared-knowledge
+reminders in conversation, repeated conclusions and redundant paraphrases.
+109 local edit operations affect 93 paragraphs in 52 chapters.
+Narrative length: 547,840 -> 546,455 words (1,385 words removed).
+All 86 chapters, 14,689 paragraphs and existing scene breaks remain.
+
+The review screened every chapter, read 714 targeted candidates and
+103 supplementary overlap/long-explanation candidates, compared affected
+original paragraphs and current neighboring exchanges, and read all
+93 final paragraphs back. This was a targeted review, not another complete
+sequential reading. A tentative cut was rejected where repetition served
+empathy and conversational flow. Other edits were adjusted to preserve
+pronoun references, reply targets and uncertainty.
+
+Essential magical explanations, operative contract conditions, identity
+checks, emotional repetition, atmosphere and character voices remain.
+Romance retains its secondary place. No new scene or storyline was added.
+The local before/after LanguageTool comparison found no introduced flags.
+
+The previous numbered EPUB and version-1.0.0 archive remain available.
+Version 1.1.0 provides the new baseline for future specific corrections.
