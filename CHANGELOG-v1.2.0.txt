@@ -1,0 +1,23 @@
+The Legacy — abridged adaptation v1.2.0
+Original story by storytellerSpW
+23 October 2026
+
+Second conservative verbosity and shared-knowledge review
+
+16 local tightenings and one dash-spacing correction affect 17 paragraphs
+across 16 chapters. The narrative moves from 546,455 to 546,256 words, a
+net reduction of 199 words. All 86 chapters and 14,689 paragraphs remain.
+
+This pass removes repeated conclusions, reminders about a prior explanation,
+and narration restating what an example or reaction already conveys.
+Magical limitations, contract rules, reveal order, meaningful hesitation,
+humour, emotional repetition and relationship milestones remain.
+
+All 86 chapters were screened and 447 unique candidate paragraphs were
+manually reviewed. All proposed edits were compared with original paragraphs
+and neighboring exchanges. One tentative cut was rejected to retain Harry's
+self-correction. Every final edited paragraph received a compiled-text
+readback and a before/after local grammar check. This targeted pass is not
+another complete sequential reading of the novel.
+
+Previous numbered editions v1.0.0 and v1.1.0 remain available unchanged.
