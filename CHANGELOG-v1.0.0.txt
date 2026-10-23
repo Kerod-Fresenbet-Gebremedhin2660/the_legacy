@@ -1,0 +1,22 @@
+The Legacy — reviewed abridged edition
+Version 1.0.0 | 23 October 2026
+Original story by storytellerSpW. Personal abridged adaptation.
+
+This version preserves the completed 86-chapter edition: 547,840 narrative
+words. It includes the completed conservative abridgment, continuity and
+proofreading work, the full revised-manuscript reading, and the final
+71 local sentence-level copy-edit operations in 43 chapters.
+
+The release review revisited all 66 paragraphs changed in that final pass
+and their immediate surroundings (194 blocks, approximately 8,674 words).
+It reviewed cadence, speaker clarity and transitions. No additional prose
+change was justified. The apparent “the Snape” problem was retained after
+checking the wider original identity-verification scene.
+
+The story’s tone, plot, quieter moments and secondary romance emphasis
+remain protected. This release adds an EPUB download and a change-log link
+to the browser contents page; chapter text is unchanged from the reviewed
+edition published in commit 77631642d36e9ff57294dcdecbd4d16dd009c3d7.
+
+This numbered edition provides a stable baseline for future specific
+corrections. Proofreading does not guarantee the absence of all errors.
